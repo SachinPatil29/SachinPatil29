@@ -11,16 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m open to collaborating on the Web and anything that I know
 - ⚡ Series and Movies are fun
 
-<br>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sachin-patil-a0858b269/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--   <img src="https://komarev.com/ghpvc/?username=SachinPatil29&style=flat-square&color=blue" alt=""/> -->
-</div>
-<br>
-### :hammer_and_wrench: Languages and Tools :
-<br>
+### :hammer_and_wrench: Skills :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -33,6 +25,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
+
+### Socials
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sachin-patil-a0858b269/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <img src="https://komarev.com/ghpvc/?username=SachinPatil29&style=flat-square&color=blue" alt=""/> -->
+</div>
 
 ### :fire: My GitHub Streaks :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SachinPatil29&theme=dark&background=000000)](https://git.io/streak-stats)
